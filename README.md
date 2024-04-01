@@ -6,7 +6,7 @@ Welcome to the landing page project for </DevBraze>. This repository contains th
 This project aims to create an engaging and informative landing page for our technical club. The landing page will serve as the primary online presence for our club, showcasing our activities, events, achievements, and more.
 
 ## Technologies Used
- (For the time being):
+ (The project is still in development stage. Hence limited technology stacks are being used right now)
 - HTML
 - CSS
 
@@ -18,8 +18,8 @@ To get started with the project, follow these steps:
         git clone https://github.com/your-username/DevBraze-landing-page.git
 
 2. Navigate to the project directory:
-        cd devbraze-landing-page
+        cd DevBraze-landing-page
    
-3. Open the project in your preferred code editor (e.g., Visual Studio Code).
+3. Open the project in your code editor (preferably, Visual Studio Code).
 
 4. Start working on the project by editing the HTML and CSS files.
