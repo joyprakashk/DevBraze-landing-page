@@ -15,7 +15,7 @@ This project aims to create an engaging and informative landing page for our tec
 To get started with the project, follow these steps:
 
 1. Clone the repository to your local machine:
-        git clone https://github.com/your-username/DevBraze-landing-page.git
+        git clone https://github.com/joyprakashk/DevBraze-landing-page.git
 
 2. Navigate to the project directory:
         cd DevBraze-landing-page
